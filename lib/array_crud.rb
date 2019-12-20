@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   student = ["Jocelyn", "Nick", "Esteban", "Alan"]
-  student.pop ("Alan")
+  student.pop
 end
 
 def remove_element_from_start_of_array(array)
