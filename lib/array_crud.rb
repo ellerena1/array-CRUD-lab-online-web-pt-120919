@@ -17,8 +17,8 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  student = ["Jocelyn", "Nick", "Esteban", "Alan", "arrays!"]
-  student.pop ("arrays!")
+  student = ["Jocelyn", "Nick", "Esteban", "Alan"]
+  student.pop ("Alan")
 end
 
 def remove_element_from_start_of_array(array)
