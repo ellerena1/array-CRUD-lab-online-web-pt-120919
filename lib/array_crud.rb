@@ -22,12 +22,13 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-  student = ["Jocelyn", "Nick", "Esteban", "Alan", "arrays!"]
+  student = ["wow", "Jocelyn", "Nick", "Esteban", "Alan", "arrays!"]
+   student.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-  student = ["wow", "Jocelyn", "Nick", "Esteban", "Alan", "arrays!"]
-  student.shift
+  student = ["Jocelyn", "Nick", "Esteban", "Alan", "arrays!"]
+ 
 end
 
 def retrieve_first_element_from_array(array)
