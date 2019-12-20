@@ -28,7 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   student = ["wow", "Jocelyn", "Nick", "Esteban", "Alan", "arrays!", "am"]
-  student = [6]
+  student[6]
  
 end
 
