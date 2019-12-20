@@ -39,4 +39,5 @@ end
 
 def retrieve_last_element_from_array(array)
   student = ["Jocelyn", "Nick", "Esteban", "Alan", "arrays!"]
+  student[4]
 end
